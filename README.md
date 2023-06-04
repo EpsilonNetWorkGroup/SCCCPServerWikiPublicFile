@@ -1,0 +1,2 @@
+# SCCCPServerWikiPublicFile
+存储SCCCP社区服务器WIKI中的静态资源
